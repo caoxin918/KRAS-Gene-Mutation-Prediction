@@ -1,0 +1,1 @@
+start myradiomics\python software\main.py
